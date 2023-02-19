@@ -14,9 +14,17 @@ https://youtu.be/5vXGo0El1T8
 
 ## Compilation Instructions
 1. Download all the files in a folder, open the folder in vsc and then 
+
+for part 1:
 ```
 g++ main.cpp -o main
 ```
+
+for part 2
+```
+g++ main.cpp -o main
+```
+
 2. Then in the file will appear an application, you can choose to run in:
 
    -  Cmd by clicking the file
