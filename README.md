@@ -10,7 +10,13 @@ Captain Al: Dear Aliens of planet Ali3n, Zombies from planet Waking D3AD
 
 The game is a type of board game where you, as an alien is tasked to defeat all the zombies. Alien would move up, down, left and right with the help of arrows to direct and kill the zombies. Once all zombies are defeated, Alien Wins!
 
+Part 1:
+
 https://youtu.be/5vXGo0El1T8
+
+Part 2:
+
+
 
 ## Compilation Instructions
 1. Download all the files in a folder, open the folder in vsc and then 
