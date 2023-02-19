@@ -41,10 +41,9 @@ When the user starts the game, it will show the default settings for rows, colum
 5.  arrow - Change the direction of an arrow.
 6.  help - Display user commands.
 7.  new - Generates new board.
-8.  reset - Resets the game.
-9.  save - Save the game.
-10. load - Load a game.
-11. quit - Quit the game.
+8.  save - Save the game.
+9. load - Load a game.
+10. quit - Quit the game.
 
 ## Alien Movement:
 
@@ -63,6 +62,9 @@ Pod (p)
 
 Rock (r)
 -Reveals randomised game objects beneath it when encountered by the alien
+
+Poison (o)
+-Instantly inflicts 10 damage to Alien Life when Alien encounters it.
 
 Empty
 -Empty space on the board
