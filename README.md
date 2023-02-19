@@ -22,7 +22,7 @@ g++ main.cpp -o main
 
 for part 2
 ```
-g++ main.cpp -o main
+g++ mainpart2.cpp -o main
 ```
 
 2. Then in the file will appear an application, you can choose to run in:
